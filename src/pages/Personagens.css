@@ -1,0 +1,22 @@
+.container-personagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 180px;
+    margin: 150px auto;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.title-card {
+    display: flex;
+    flex-direction: column;
+    font-size: 40px;
+    letter-spacing: 8px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
